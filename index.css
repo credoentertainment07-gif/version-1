@@ -8,3 +8,12 @@ body {
     background-color: blueviolet;
     color: gold;
 }
+
+h1 {
+    color: rgb(206, 206, 218);
+}
+
+header {
+    background-color: gray;
+    padding: 2rem;
+}
