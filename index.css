@@ -17,3 +17,10 @@ header {
     background-color: gray;
     padding: 2rem;
 }
+
+button {
+    background-color: gold;
+    padding: 1rem 2rem;
+    border: 2px;
+    border-radius: 20px;
+}
